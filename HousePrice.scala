@@ -1,7 +1,4 @@
-package neu.coe.csye
 
-import neu.coe.csye.Utils.ModelUtil
-import neu.coe.csye.Utils.EvaluateUtil
 
 
 object HousePrice extends App {
